@@ -1,6 +1,6 @@
 import winsound
 import time
-from translator import MorseCodeTranslator as MCT
+from morseutils.translator import MorseCodeTranslator as MCT
 
 class MorseCodePlayer(MCT):
     def __init__(self):
