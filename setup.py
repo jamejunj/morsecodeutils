@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name = "morseutils",
-    version = "0.0.3.2",
+    version = "0.0.4",
     author = "Jirakit Jirapongwanich",
     author_email = "jame.jpwn@gmail.com",
     description = "A morsecode translator and player package. \nIt can translate a message to morse code and play the morse code as sound. \nThe player is only support on Windows",
